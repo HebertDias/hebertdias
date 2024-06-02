@@ -1,8 +1,18 @@
 ### Prazer, sou o Hebert! ✨
 
-##### Just a beginner listening to songs and learning Front-End. `:)`
+_Just a beginner listening to music and wanting to share his progress._`:)`
 
-- 📖 Currently I`m studying Analysis and System Development at <span color="red">UNIP</span> (1/5).
+<hr>
+
+![gifgatinho](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjNrMGVndHJjbGV1ZnQwd3diOW9xZ2JuZm5sc3hrN2RjMmFreGlwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif)
+
+<hr>
+
+### About me
+
+- 🎓 Currently I`m studying Analysis and System Development at UNIP (1/5).
+- 📜 Hooked in certificates (give me one).
+- 🐈 <- A kitten.
 
 ### 💬 Find me here:
 
@@ -18,3 +28,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 
 ![Hebert GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hebertdias&layout=compact&theme=dark)
+
+<hr>
+
+_Good luck for us! 🍀_
