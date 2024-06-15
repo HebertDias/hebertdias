@@ -2,7 +2,7 @@
 
 #
 
-_Just a beginner listening to music and wanting to share his progress._ `:)`
+_Just a beginner wanting to share his progress._ `:)`
 
 <hr>
 
