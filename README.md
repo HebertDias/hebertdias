@@ -12,8 +12,8 @@ _Just a beginner wanting to share his progress._ `:)`
 
 ### About me
 
-- 🎓 Currently I`m studying Analysis and System Development at UNIP (1/5).
-- 📜 Hooked in certificates (give me one).
+- 🎓 Currently I`m studying Analysis and System Development at UNIP (3/4).
+- 📜 Enjoying Infra and CyberSecurity.
 - 🐈 <- A kitten.
 
 ### 💬 Find me here:
