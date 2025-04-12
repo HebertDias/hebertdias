@@ -6,23 +6,20 @@
 
 <hr>
 
-### About me
+### 🧑‍💻 Sobre mim
 
-- 🎓 Currently I`m studying Analysis and System Development (3/4).
-- 📜 Enjoying Infra and Cloud Service.
-- 🎯 Goals:
+- 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas (3/4).
+- 📜 Aprendendo sobre Infra e Cloud Service.
+- 🎯 Metas:
 -     Microsoft Azure Fundamentals (AZ-900)
       Microsoft Azure Secutiry (SC-900)
 
-
-
-
-### 💬 Find me here:
+### 💬 Redes
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diashebert/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](diasshebert@gmail.com)
 
-### What I am using... 🖥️
+### ⚒️ Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
