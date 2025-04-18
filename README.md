@@ -9,10 +9,14 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Atualmente estudando Análise e Desenvolvimento de Sistemas (3/4).
-- 📜 Aprendendo sobre Infra e Cloud Service.
+- 📜 Aprendendo sobre Cloud Service and CyberSec.
 - 🎯 Metas:
 -     Microsoft Azure Fundamentals (AZ-900)
       Microsoft Azure Secutiry (SC-900)
+
+📜 Badges
+
+![alt text](<introduction-to-cybersecurity (1).png>)
 
 ### 💬 Redes
 
