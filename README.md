@@ -16,7 +16,7 @@
 
 📜 Badges
 
-![alt text](<introduction-to-cybersecurity (1).png>)
+![alt text](introduction-to-cybersecurity.png)
 
 ### 💬 Redes
 
