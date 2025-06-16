@@ -16,7 +16,10 @@
 
 📜 Badges
 
-![alt text](introduction-to-cybersecurity.png)
+<!--- > Os tamanhos são 123px X 123px -->
+
+![Intro-CyberSec](introduction-to-cybersecurity.png)
+![alt text](networking-basics-4.png)
 
 ### 💬 Redes
 
